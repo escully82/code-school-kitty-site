@@ -179,9 +179,9 @@ em{
 
 .login_button {
   position: relative;
-  right: 20px;
-  bottom: 340px;
-  z-index:1;
+  right: 25px;
+  bottom: 310px;
+  z-index: 1;
 }
 
 .login_button a:link, .login_button a:visited {
