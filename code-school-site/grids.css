@@ -224,7 +224,7 @@ nav li {
 nav a:link, nav a:visited {
   display:inline-block;
 	text-decoration:none;
-  padding:0 20%;
+  margin:0 30px;
 	background: none;
 	color: black;
 	font-family: 'Raleway', sans-serif;
